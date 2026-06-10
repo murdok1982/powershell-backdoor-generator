@@ -189,3 +189,15 @@ Para proponer nuevas capacidades tácticas, módulos de inteligencia o mejoras d
 </details>
 
 ---
+
+---
+
+## Support / Apoya este proyecto
+
+I build open-source projects focused on applied AI, automation, and data intelligence.
+Over on my GitHub you'll find things like AI-powered analysis engines, OSINT platforms for open-source research, Windows automation tools, and experiments with language models.
+Everything is public and free, so anyone can use it, study it, or build on top of it. github.com/murdok1982
+
+Keeping these projects alive takes a lot of hours. If any of them have helped you out or you just like what I'm doing, you can support me with a coffee: ko-fi.com/murdok1982
+
+Every contribution goes straight back into shipping more open-source code.
